@@ -25,3 +25,9 @@ Run the following command to start the app - make sure that you have golang <i>v
 ```sh
     go run main.go
 ```
+
+In case you have docker you can run the following command:
+
+```sh
+    docker-compose up -d
+```
